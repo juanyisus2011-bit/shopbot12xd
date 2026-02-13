@@ -1,0 +1,28 @@
+{
+  "name": "mibot5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.13.5",
+    "canvas": "^3.2.1",
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.4",
+    "express": "^4.19.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanyisus2011-bit/botshop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juanyisus2011-bit/botshop/issues"
+  },
+  "homepage": "https://github.com/juanyisus2011-bit/botshop#readme"
+}

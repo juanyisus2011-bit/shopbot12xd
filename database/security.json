@@ -1,0 +1,17 @@
+{
+  "serverId": "1469787538528014602",
+  "ownerBypass": true,
+  "adminUser": "1402724870160257130",
+  "whitelist": {
+    "users": [],
+    "roles": []
+  },
+  "limits": {
+    "ban": 2,
+    "kick": 2,
+    "channelCreate": 2
+  },
+  "inviteWarnings": {
+    "1439214172163407916": 1
+  }
+}
